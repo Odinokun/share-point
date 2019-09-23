@@ -151,7 +151,7 @@
   }
 
   .info-main__item--02 span {
-    top: 50px;
+    top: 0px;
     left: 160px;
   }
 
@@ -303,8 +303,10 @@
   }
 
   .info-main__item--02 span {
-    left: 0;
+    left: -30px;
     text-align: right;
+    top: 35px;
+    width: 150px;
   }
 
   .info-main__item--03 {
