@@ -107,21 +107,21 @@ svg {
 
 .info-main__item--02 {
   top: 310px;
-  left: 30px;
-  width: 256px;
+  left: 0px;
+  width: 288px;
   height: 231px;
   background-image: url('img/icon-02.svg');
 }
 
 .info-main__item--02 span {
-  top: 65px;
-  left: 105px;
+  top: 100px;
+  left: 100px;
   text-align: right;
 }
 
 .info-main__item--02 .circle {
-  top: 95px;
-  right: -50px;
+  top: 130px;
+  right: -48px;
 }
 
 .info-main__item--03 {
@@ -144,23 +144,24 @@ svg {
 }
 
 .info-main__item--04 {
-  top: 485px;
-  left: 375px;
-  width: 307px;
-  height: 233px;
+  top: 460px;
+  left: 430px;
+  width: 258px;
+  height: 261px;
   background-image: url('img/icon-04.svg');
   background-position: 100% 0;
 }
 
 .info-main__item--04 span {
-  top: 140px;
-  left: 0;
+  top: 200px;
+  left: -50px;
+  width: 130px;
   text-align: right;
 }
 
 .info-main__item--04 .circle {
   top: 170px;
-  left: 184px;
+  left: 130px;
 }
 
 .info-main__item--05 {

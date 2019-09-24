@@ -28,14 +28,15 @@
 
   .info-main__item--02 {
     top: 260px;
-    left: 20px;
-    width: 230px;
-    height: 208px;
+    left: 50px;
+    width: 200px;
+    height: 160px;
   }
 
   .info-main__item--02 span {
-    left: 210px;
-    width: 130px;
+    left: 190px;
+    top: 65px;
+    width: 160px;
     text-align: left;
   }
 
@@ -56,14 +57,18 @@
   }
 
   .info-main__item--04 {
-    top: 430px;
+    top: 420px;
     left: 285px;
-    width: 230px;
-    height: 175px;
+    width: 180px;
+    height: 182px;
   }
 
+  .info-main__item--04 span {
+    top: 150px;
+    left: -25px;
+  }
   .info-main__item--04 .circle {
-    top: 120px;
+    top: 60px;
     left: 160px;
   }
 
@@ -146,8 +151,8 @@
 
   .info-main__item--02 {
     left: 10px;
-    width: 190px;
-    height: 172px;
+    width: 180px;
+    height: 144px;
   }
 
   .info-main__item--02 span {
@@ -168,10 +173,9 @@
   }
 
   .info-main__item--03 span {
-    top: 0;
-    left: 160px;
+    top: -10px;
+    left: 0px;
     width: 120px;
-    text-align: left;
   }
 
   .info-main__item--03 .circle {
@@ -180,18 +184,19 @@
   }
 
   .info-main__item--04 {
-    top: 350px;
+    top: 390px;
     left: 230px;
-    width: 190px;
-    height: 145px;
+    width: 170px;
+    height: 172px;
   }
 
   .info-main__item--04 span {
-    left: 20px;
+    left: -10px;
   }
 
   .info-main__item--04 .circle {
     left: 148px;
+    top: 160px;
   }
 
   .info-main__item--05 {
@@ -295,15 +300,15 @@
   }
 
   .info-main__item--02 {
-    max-width: 300px;
-    height: 167px;
+    max-width: 327px;
+    height: 165px;
     margin-bottom: 36px;
-    background-image: url('img/icon-02-mob.svg');
+    background-image: url('img/icon-02-mobile.svg');
     background-position: 100% 0;
   }
 
   .info-main__item--02 span {
-    left: -30px;
+    left: -10px;
     text-align: right;
     top: 35px;
     width: 150px;
@@ -328,19 +333,19 @@
   }
 
   .info-main__item--04 {
-    max-width: 315px;
-    height: 165px;
+    max-width: 332px;
+    height: 126px;
     margin-bottom: 50px;
     background-image: url('img/icon-04-mobile.svg');
   }
 
   .info-main__item--04 span {
-    top: 80px;
+    top: 65px;
     left: 0;
   }
 
   .info-main__item--04 .circle {
-    top: 105px;
+    top: 90px;
   }
 
   .info-main__item--05 {
