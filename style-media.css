@@ -34,8 +34,8 @@
   }
 
   .info-main__item--02 span {
-    left: 190px;
     top: 65px;
+    left: 190px;
     width: 160px;
     text-align: left;
   }
@@ -67,14 +67,15 @@
     top: 150px;
     left: -25px;
   }
+
   .info-main__item--04 .circle {
     top: 60px;
     left: 160px;
   }
 
   .info-main__item--05 {
-    top: 37px;
-    left: 450px;
+    top: 55px;
+    left: 480px;
     width: 230px;
     height: 199px;
   }
@@ -156,7 +157,7 @@
   }
 
   .info-main__item--02 span {
-    top: 0px;
+    top: 0;
     left: 160px;
   }
 
@@ -174,7 +175,7 @@
 
   .info-main__item--03 span {
     top: -10px;
-    left: 0px;
+    left: 0;
     width: 120px;
   }
 
@@ -195,26 +196,26 @@
   }
 
   .info-main__item--04 .circle {
-    left: 148px;
     top: 160px;
+    left: 148px;
   }
 
   .info-main__item--05 {
-    top: 80px;
-    left: 420px;
+    top: 90px;
+    left: 430px;
     width: 190px;
     height: 164px;
   }
 
   .info-main__item--05 span {
     top: 130px;
-    left: -30px;
+    left: -20px;
     width: 220px;
   }
 
   .info-main__item--05 .circle {
-    bottom: -50px;
-    left: 80px;
+    bottom: -39px;
+    left: 70px;
   }
 
   .info-main__item--06 {
@@ -308,10 +309,10 @@
   }
 
   .info-main__item--02 span {
-    left: -10px;
-    text-align: right;
     top: 35px;
+    left: -10px;
     width: 150px;
+    text-align: right;
   }
 
   .info-main__item--03 {
@@ -357,7 +358,7 @@
   }
 
   .info-main__item--05 span {
-    top: 30px;
+    top: 65px;
     right: 0;
     left: auto;
     width: 132px;
