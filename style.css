@@ -72,6 +72,14 @@ svg {
   transition: color .5s;
   pointer-events: auto;
 }
+.info-main__item span a{
+  color: #ff5831;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 26px;
+  text-decoration: underline;
+  pointer-events: none;
+}
 
 .info-main__item span.active {
   pointer-events: none;
@@ -92,7 +100,7 @@ svg {
   left: 85px;
   width: 435px;
   height: 258px;
-  background-image: url('img/icon-01.svg');
+  background-image: url('img/icon-01.png');
 }
 
 .info-main__item--01 span {
@@ -110,7 +118,7 @@ svg {
   left: 0;
   width: 288px;
   height: 231px;
-  background-image: url('img/icon-02.svg');
+  background-image: url('img/icon-02.png');
 }
 
 .info-main__item--02 span {
@@ -129,7 +137,7 @@ svg {
   left: 20px;
   width: 296px;
   height: 250px;
-  background-image: url('img/icon-03.svg');
+  background-image: url('img/icon-03.png');
 }
 
 .info-main__item--03 span {
@@ -148,14 +156,14 @@ svg {
   left: 430px;
   width: 258px;
   height: 261px;
-  background-image: url('img/icon-04.svg');
+  background-image: url('img/icon-04.png');
   background-position: 100% 0;
 }
 
 .info-main__item--04 span {
   top: 200px;
-  left: -50px;
-  width: 130px;
+  left: -75px;
+  width: 170px;
   text-align: right;
 }
 
@@ -165,11 +173,11 @@ svg {
 }
 
 .info-main__item--05 {
-  top: 100px;
+  top: 90px;
   left: 590px;
   width: 294px;
   height: 255px;
-  background-image: url('img/icon-05.svg');
+  background-image: url('img/icon-05.png');
   background-position: 100% 0;
 }
 
@@ -182,7 +190,7 @@ svg {
 }
 
 .info-main__item--05 .circle {
-  bottom: -38px;
+  bottom: -48px;
   left: 90px;
 }
 
@@ -191,7 +199,7 @@ svg {
   right: 55px;
   width: 490px;
   height: 507px;
-  background-image: url('img/icon-06.svg');
+  background-image: url('img/icon-06.png');
 }
 
 .info-main__item--06 span {
@@ -209,12 +217,13 @@ svg {
   right: 80px;
   width: 556px;
   height: 301px;
-  background-image: url('img/icon-07.svg');
+  background-image: url('img/icon-07.png');
 }
 
 .info-main__item--07 span {
-  top: 98px;
-  right: 5px;
+  top: 90px;
+  right: 25px;
+  max-width: 170px;
 }
 
 .info-main__item--07 .circle {

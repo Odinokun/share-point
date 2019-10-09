@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="7" height="4000" viewBox="0 0 7 4000"><g><g><path fill="#ff5831" d="M0 0h7v4000H0z"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="7" height="4000" viewBox="0 0 7 4000">
+    <g>
+        <g>
+            <path fill="#ff5831" d="M0 0h7v4000H0z" />
+        </g>
+    </g>
+</svg>

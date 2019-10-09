@@ -52,6 +52,11 @@
     height: 194px;
   }
 
+  .info-main__item--03 span {
+    left: 110px;
+    width: 125px;
+  }
+
   .info-main__item--03 .circle {
     right: -36px;
   }
@@ -66,6 +71,7 @@
   .info-main__item--04 span {
     top: 150px;
     left: -25px;
+    width: 140px;
   }
 
   .info-main__item--04 .circle {
@@ -74,7 +80,7 @@
   }
 
   .info-main__item--05 {
-    top: 55px;
+    top: 45px;
     left: 480px;
     width: 230px;
     height: 199px;
@@ -114,8 +120,9 @@
   }
 
   .info-main__item--07 span {
-    top: 70px;
-    right: -80px;
+    top: 50px;
+    right: -90px;
+    max-width: 180px;
   }
 
   .info-main__item--07 .circle {
@@ -141,8 +148,8 @@
   }
 
   .info-main__item--01 span {
-    top: 80px;
-    right: -40px;
+    top: 70px;
+    right: -30px;
   }
 
   .info-main__item--01 .circle {
@@ -157,7 +164,7 @@
   }
 
   .info-main__item--02 span {
-    top: 0;
+    top: 40px;
     left: 160px;
   }
 
@@ -186,22 +193,22 @@
 
   .info-main__item--04 {
     top: 390px;
-    left: 230px;
+    left: 240px;
     width: 170px;
     height: 172px;
   }
 
   .info-main__item--04 span {
-    left: -10px;
+    left: -40px;
   }
 
   .info-main__item--04 .circle {
     top: 160px;
-    left: 148px;
+    left: 138px;
   }
 
   .info-main__item--05 {
-    top: 90px;
+    top: 75px;
     left: 430px;
     width: 190px;
     height: 164px;
@@ -214,7 +221,7 @@
   }
 
   .info-main__item--05 .circle {
-    bottom: -39px;
+    bottom: -54px;
     left: 70px;
   }
 
@@ -240,9 +247,10 @@
   }
 
   .info-main__item--07 span {
-    top: -70px;
+    top: -90px;
     right: 160px;
     text-align: right;
+    max-width: 170px;
   }
 
   .info-main__item--07 .circle {
@@ -290,6 +298,7 @@
     max-width: 318px;
     height: 172px;
     margin-bottom: 44px;
+    background-image: url('img/icon-01-mobile.png');
   }
 
   .info-main__item--01 span {
@@ -304,7 +313,7 @@
     max-width: 327px;
     height: 165px;
     margin-bottom: 36px;
-    background-image: url('img/icon-02-mobile.svg');
+    background-image: url('img/icon-02-mobile.png');
     background-position: 100% 0;
   }
 
@@ -316,15 +325,15 @@
   }
 
   .info-main__item--03 {
-    max-width: 400px;
+    max-width: 360px;
     height: 160px;
     margin-bottom: 60px;
-    background-image: url('img/icon-03-mobile.svg');
+    background-image: url('img/icon-03-mobile.png');
   }
 
   .info-main__item--03 span {
     top: 90px;
-    right: 10px;
+    right: 30px;
     left: auto;
     width: 130px;
   }
@@ -337,7 +346,7 @@
     max-width: 332px;
     height: 126px;
     margin-bottom: 50px;
-    background-image: url('img/icon-04-mobile.svg');
+    background-image: url('img/icon-04-mobile.png');
   }
 
   .info-main__item--04 span {
@@ -350,10 +359,10 @@
   }
 
   .info-main__item--05 {
-    max-width: 330px;
+    max-width: 340px;
     height: 159px;
     margin-bottom: 90px;
-    background-image: url('img/icon-05-mobile.svg');
+    background-image: url('img/icon-05-mobile.png');
     background-position: 0 0;
   }
 
@@ -380,7 +389,7 @@
   .info-main__item--06 span {
     top: 50px;
     right: auto;
-    left: 50px;
+    left: 80px;
     text-align: right;
   }
 
@@ -392,13 +401,13 @@
     width: 304px;
     height: 221px;
     margin-bottom: 60px;
-    background-image: url('img/icon-07-mobile.svg');
+    background-image: url('img/icon-07-mobile.png');
   }
 
   .info-main__item--07 span {
     top: 30px;
-    right: 0;
-    max-width: 130px;
+    right: -15px;
+    max-width: 145px;
     text-align: left;
   }
 
