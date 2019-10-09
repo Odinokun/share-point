@@ -1,5 +1,6 @@
 @media screen and (max-height: 1160px), (max-width: 1140px) {
   .container {
+    overflow: visible;
     max-width: 900px;
     height: 960px;
   }
@@ -249,8 +250,8 @@
   .info-main__item--07 span {
     top: -90px;
     right: 160px;
-    text-align: right;
     max-width: 170px;
+    text-align: right;
   }
 
   .info-main__item--07 .circle {
