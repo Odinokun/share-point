@@ -72,13 +72,13 @@ svg {
   transition: color .5s;
   pointer-events: auto;
 }
-.info-main__item span a{
-  color: #ff5831;
+.info-main__item span a {
   font-size: 13px;
   font-weight: 500;
   line-height: 26px;
   text-decoration: underline;
   pointer-events: none;
+  color: #ff5831;
 }
 
 .info-main__item span.active {
