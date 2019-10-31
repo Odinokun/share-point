@@ -95,6 +95,25 @@ svg {
   background-color: #1755cb;
 }
 
+.info-main__item--00 {
+  width: 419px;
+  height: 187px;
+
+  /*top: 5px;*/
+  /*left: 85px;*/
+  background-image: url('img/icon-00.png');
+}
+
+.info-main__item--00 span {
+  top: 135px;
+  right: 0;
+}
+
+.info-main__item--00 .circle {
+  top: 150px;
+  right: 184px;
+}
+
 .info-main__item--01 {
   top: 5px;
   left: 85px;
